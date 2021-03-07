@@ -26,8 +26,8 @@
 
 ### User interface 
 
-![alt](https://res.cloudinary.com/devatchannel/image/upload/v1599568147/test/1_pe9ism.png)
+![alt](https://res.cloudinary.com/dqucjcrip/image/upload/v1615122462/repo/Capture_sxgppi.png)
 
 ### Admin interface 
 
-![alt](https://res.cloudinary.com/devatchannel/image/upload/v1599568148/test/2_obw2r7.png)
+![alt](https://res.cloudinary.com/dqucjcrip/image/upload/v1615122455/repo/Capture1_fektdd.png)
