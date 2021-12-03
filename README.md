@@ -3,6 +3,9 @@
 
 ## Author: Kavindu Madushanka
 
+## Demo: https://bookshop-mern.herokuapp.com
+
+
 ## Install dependencies for server 
 ### `npm install`
 
